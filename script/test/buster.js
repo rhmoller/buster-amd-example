@@ -9,6 +9,7 @@ config["example"] = {
         "test/*-test.js"
     ],
     libs: [
+        "test/require-config.js",
         "require-jquery.js"
     ],
     extensions: [
