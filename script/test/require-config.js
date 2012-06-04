@@ -1,5 +1,6 @@
 var require = {
     paths: {
-        "greeter": "example/greeter"
+        "greeter": "example/greeter",
+        "modulea": "example/modulea"
     }
 };

@@ -3,10 +3,10 @@ config["example"] = {
     environment: "browser",
     rootPath: "..",
     sources: [
-        "example/*.js"
+        "example/**/*.js"
     ],
     tests: [
-        "test/*-test.js"
+        "test/**/*-test.js"
     ],
     libs: [
         "test/require-config.js",
