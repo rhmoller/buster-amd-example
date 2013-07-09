@@ -2,7 +2,7 @@ var config = module.exports;
 config["example"] = {
     environment: "browser",
     rootPath: "..",
-    sources: [
+    resources: [
         "example/**/*.js"
     ],
     tests: [
